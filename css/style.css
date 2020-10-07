@@ -1,0 +1,93 @@
+body{
+  background-image: url('https://jooinn.com/images/wood-back-1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+
+header {
+  width: 60%;
+  margin: auto;
+  padding: 10px;
+  border-bottom: 2px solid white;
+  position: relative;
+}
+
+.contenitore {
+  height: 100px;
+  display: inline-block;
+}
+
+.logo {
+  height: 100%;
+}
+
+#nome-logo {
+  color: white;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+nav {
+  width: 60%;
+  margin: auto;
+  padding: 10px;
+  border-bottom: 2px solid white;
+}
+
+.title {
+  color: white;
+}
+
+.unread {
+  padding: 10px;
+  background-color: orange;
+  border-radius: 50%;
+  color: white;
+}
+
+main {
+  width: 60%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.riga {
+  background-color: lightgrey;
+  border: 1px solid black;
+  height: 25px;
+}
+
+.riga-bianca {
+  background-color: white;
+  border: 1px solid black;
+  height: 25px;
+}
+
+
+#oggetto {
+  font-size: 18px;
+  padding: 0px;
+}
+
+#corpo {
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
+  margin-left: 50px;
+}
+
+footer {
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+  border-top: 2px solid white;
+  text-align: center;
+  color: white;
+}
+
+.gmail {
+  font-size: 20px;
+}
